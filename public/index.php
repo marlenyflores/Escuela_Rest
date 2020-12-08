@@ -1,3 +1,4 @@
+
 <?php
 
 // Valid PHP Version?
@@ -24,6 +25,7 @@ $pathsPath = realpath(FCPATH . '../app/Config/Paths.php');
  * our autoloader, along with Composer's, loads our constants
  * and fires up an environment-specific bootstrapping.
  */
+
 
 // Ensure the current directory is pointing to the front controller's directory
 chdir(__DIR__);

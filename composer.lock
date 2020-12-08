@@ -1,3 +1,4 @@
+
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
@@ -1496,7 +1497,7 @@
                     "name": "Volker Dusch",
                     "email": "github@wallbash.com"
                 },
-                
+
                 {
                     "name": "Bernhard Schussek",
                     "email": "bschussek@2bepublished.at"
